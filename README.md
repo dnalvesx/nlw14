@@ -1,7 +1,7 @@
 <h1>NLW Expert (React)</h1>
 This application was developed during Rocketseat's NLW Experts using React, TypeScript, Tailwind, and the SpeechRecognition API.
 
-Running the application:
+<strong>Running the application:</strong>
 
 Clone the repository.
 Access the project folder and run the following commands:
@@ -21,8 +21,8 @@ The SpeechRecognition API may not be available in all regions or languages.
 Please refer to the project's README file for more information and usage instructions.
 Credits:
 
-Rocketseat - <URL inválido removido>
-NLW Experts - <URL inválido removido>
+<h3>Rocketseat </h3>
+<h3>NLW Experts</h3>
 License:
 
 This project is licensed under the MIT License.
